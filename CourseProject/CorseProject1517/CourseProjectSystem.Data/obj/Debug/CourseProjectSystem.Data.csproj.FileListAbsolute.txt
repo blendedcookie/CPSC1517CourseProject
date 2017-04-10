@@ -1,0 +1,12 @@
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\bin\Debug\CourseProjectSystem.Data.dll
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\bin\Debug\CourseProjectSystem.Data.pdb
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\obj\Debug\CourseProjectSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\obj\Debug\CourseProjectSystem.Data.dll
+C:\Users\Sean\Desktop\CorseProject1517\CourseProjectSystem.Data\obj\Debug\CourseProjectSystem.Data.pdb
+E:\CPSC 1517\New folder\CorseProject1517\CourseProjectSystem.Data\obj\Debug\CourseProjectSystem.Data.csprojResolveAssemblyReference.cache
+E:\CPSC 1517\New folder\CorseProject1517\CourseProjectSystem.Data\obj\Debug\CourseProjectSystem.Data.dll
+E:\CPSC 1517\New folder\CorseProject1517\CourseProjectSystem.Data\obj\Debug\CourseProjectSystem.Data.pdb

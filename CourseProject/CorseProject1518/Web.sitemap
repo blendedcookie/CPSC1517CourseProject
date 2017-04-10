@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Home"  description="root menu">
+    <siteMapNode url="~/Default.aspx" title="Forms" description="">
+      <siteMapNode url="~/FormPages/FormA.aspx" title="Form A - CRUD"  description="CRUD Page" />
+      <siteMapNode url="~/FormPages/FormB.aspx" title="Form B - GridView"  description="Lookup With Code-Behind" />
+      <siteMapNode url="~/FormPages/FormC.aspx" title="Form C - GridView"  description="LookUp with OnjectDataSource" />
+    </siteMapNode>
+    <siteMapNode url="~/About.aspx" title="About"  description="" />
+    <siteMapNode url="~/Contact.aspx" title="Contact"  description="" />
+  </siteMapNode>
+</siteMap>

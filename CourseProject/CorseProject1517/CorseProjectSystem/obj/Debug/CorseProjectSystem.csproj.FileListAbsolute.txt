@@ -1,0 +1,14 @@
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\CorseProjectSystem.dll
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\CorseProjectSystem.pdb
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\CourseProjectSystem.Data.dll
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\CourseProjectSystem.Data.pdb
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\obj\Debug\CorseProjectSystem.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\obj\Debug\CorseProjectSystem.dll
+C:\Users\Sean\Desktop\CorseProject1517\CorseProjectSystem\obj\Debug\CorseProjectSystem.pdb
+E:\CPSC 1517\New folder\CorseProject1517\CorseProjectSystem\obj\Debug\CorseProjectSystem.csprojResolveAssemblyReference.cache
+E:\CPSC 1517\New folder\CorseProject1517\CorseProjectSystem\obj\Debug\CorseProjectSystem.dll
+E:\CPSC 1517\New folder\CorseProject1517\CorseProjectSystem\obj\Debug\CorseProjectSystem.pdb

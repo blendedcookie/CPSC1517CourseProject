@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CorseProject1518", "..\CorseProject1518\", "{CFB32C95-141A-4B90-ACC8-5164F003F3DB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{c2ad4d38-04f9-4d35-b888-340a8f10e4bc}|CorseProjectSystem.dll;{2f49be7f-af98-4923-b6ef-cccb472d1203}|CourseProjectSystem.Data.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55820"
+		Debug.AspNetCompiler.PhysicalPath = "..\CorseProject1518\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55820\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55820"
+		Release.AspNetCompiler.PhysicalPath = "..\CorseProject1518\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55820\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55820"
+		SlnRelativePath = "..\CorseProject1518\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorseProjectSystem", "CorseProjectSystem\CorseProjectSystem.csproj", "{C2AD4D38-04F9-4D35-B888-340A8F10E4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProjectSystem.Data", "CourseProjectSystem.Data\CourseProjectSystem.Data.csproj", "{2F49BE7F-AF98-4923-B6EF-CCCB472D1203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB32C95-141A-4B90-ACC8-5164F003F3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB32C95-141A-4B90-ACC8-5164F003F3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB32C95-141A-4B90-ACC8-5164F003F3DB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB32C95-141A-4B90-ACC8-5164F003F3DB}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C2AD4D38-04F9-4D35-B888-340A8F10E4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AD4D38-04F9-4D35-B888-340A8F10E4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AD4D38-04F9-4D35-B888-340A8F10E4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AD4D38-04F9-4D35-B888-340A8F10E4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F49BE7F-AF98-4923-B6EF-CCCB472D1203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F49BE7F-AF98-4923-B6EF-CCCB472D1203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F49BE7F-AF98-4923-B6EF-CCCB472D1203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F49BE7F-AF98-4923-B6EF-CCCB472D1203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
